@@ -1,0 +1,5 @@
+<Route path="/" exact component={Login} />
+          <Route path="/login" exact component={Login} />
+          <Route exact path="/Signup" component={SignUp} />
+
+lini 25 app.js
